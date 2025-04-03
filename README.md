@@ -2,9 +2,9 @@
 # Customer Segmentation: Gaining Actionable Insights
 
 ## Project Overview
-Understanding customer behavior is crucial for business growth. In this project, we applied clustering techniques to segment customers effectively, revealing distinct groups and valuable insights.
+Understanding customer behavior is crucial for business growth. In this project, I have applied clustering techniques to segment customers effectively, revealing distinct groups and valuable insights.
 
-## Our Approach
+## Approach
 ✅ **Data Preprocessing & EDA** – Cleaning and exploring patterns.
 
 ✅ **K-Means & Hierarchical Clustering** – Using the **Elbow Method** & **Dendrogram** to determine the optimal number of clusters (**k=2**).
