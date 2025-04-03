@@ -1,4 +1,4 @@
-# Customer-Segmentation-Project
+
 # Customer Segmentation: Gaining Actionable Insights
 
 ## Project Overview
